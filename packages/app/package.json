@@ -5,8 +5,11 @@
   "dependencies": {
     "@react-navigation/native": "^6.0.8",
     "@react-navigation/native-stack": "^6.5.0",
+    "@reduxjs/toolkit": "^1.8.6",
     "moti": "latest",
     "nativewind": "2.0.9",
+    "react-redux": "^8.0.4",
+    "reduxjs-toolkit-persist": "^7.2.1",
     "solito": "3.0.0"
   },
   "sideEffects": false
