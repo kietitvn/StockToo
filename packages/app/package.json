@@ -12,5 +12,8 @@
     "reduxjs-toolkit-persist": "^7.2.1",
     "solito": "3.0.0"
   },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
   "sideEffects": false
 }
